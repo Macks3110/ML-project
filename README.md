@@ -25,8 +25,8 @@ The `implementations.py` file contains all useful functions and is divided into 
       submission file in `.csv` format. 
     
 
-### Data Pipeline
-![Data processing pipeline](https://github.com/ymentha14/MLprojectfall2019/blob/master/project1/results/pipeline.png)
-
 ### Code execution
 Run the following command line in the terminal : `python3 run.py`
+
+### Report
+You can find the report that was submitted as part of the Machine Learning (CS-433) course in report_final.pdf
